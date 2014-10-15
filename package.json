@@ -1,0 +1,16 @@
+{
+  "name": "james-butler",
+  "version": "0.0.1",
+  "description": "A simple command-line tool for listing your cutom functions",
+  "author": "Oskar Karlsson",
+  "license": "WTFPL",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "dependencies": {
+    "commander": "~2.3.0"
+  },
+  "bin": {
+    "jamesbutler": "james.js"
+  }
+}
